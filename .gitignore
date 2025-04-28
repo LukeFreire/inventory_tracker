@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# XAMPP/PHP
+vendor/
+*.log
+.env
+
+# IDEs
+.idea/
+*.iml
