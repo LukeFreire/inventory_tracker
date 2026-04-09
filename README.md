@@ -26,7 +26,7 @@ A full-stack inventory management system built using PHP, MySQL, HTML, and CSS.
 1. Install XAMPP
 2. Move project folder into `htdocs`
 3. Start Apache and MySQL
-4. Import the database into phpMyAdmin
+4. Import `database.sql` into phpMyAdmin
 5. Go to:
    http://localhost/inventory_tracker
 
