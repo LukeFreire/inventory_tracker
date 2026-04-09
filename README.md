@@ -32,3 +32,14 @@ A full-stack inventory management system built using PHP, MySQL, HTML, and CSS.
 
 ## Purpose
 This project was built to practice full-stack development, database design, and CRUD 
+
+## Screenshots
+
+### Login Page
+![Login](login.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Items Management
+![Items](items.png)
